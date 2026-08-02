@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Raj Assistant</string>
+    <string name="accessibility_service_description">Raj Assistant Accessibility Service enables screen-on gesture recognition and system-wide gesture controls.</string>
+</resources>
